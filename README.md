@@ -4,3 +4,4 @@ This is inspired by toybox. The goal is to make simple, fast, easy to understand
 Core:
  - cat
  - yes
+ - echo
